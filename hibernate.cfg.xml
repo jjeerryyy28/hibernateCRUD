@@ -27,7 +27,7 @@
 
        <property name="hibernate.hbm2ddl.auto">update</property>
        
-       <mapping class="entity.Teacher"/>
+       <mapping class="entity.TeacherPojo"/>
 
     </session-factory>
 
